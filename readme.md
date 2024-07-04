@@ -1,4 +1,4 @@
-# Drooler - https://drooler.tk
+# Drooler - https://drooler.replit.app
 
 ### Desc:
 
