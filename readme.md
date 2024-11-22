@@ -1,4 +1,4 @@
-# Drooler - https://drooler.replit.app
+# Drooler - https://bijenmanlol.github.io/drooler
 
 ### Desc:
 
