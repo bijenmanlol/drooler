@@ -10,9 +10,7 @@ Website for socials and other contact information
 
 -Visual Studio Code (https://code.visualstudio.com/) - IDE
 
--Replit (https://replit.com) - hosting, IDE
-
--Github (https://github.com) - code storage
+-Github (https://github.com) - Storage/hosting
 
 
 ### Code (open source):
