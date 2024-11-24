@@ -7,15 +7,9 @@ Website for socials and other contact information
 
 ### Services used:
 
-
 -Visual Studio Code (https://code.visualstudio.com/) - IDE
 
 -Github (https://github.com) - Storage/hosting
-
-
-### Code (open source):
-
-View the open source code here https://github.com/bijenmanlol/drooler
 
 
 ### Licensing:
