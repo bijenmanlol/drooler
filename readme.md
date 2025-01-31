@@ -18,4 +18,4 @@ This product is officially licensed under a MIT license, for more info read [lic
 
 &nbsp;
 
-**&copy; 2024 - All rights reserved**
+**&copy; 2025 - All rights reserved**
